@@ -1,4 +1,4 @@
-# dinosaur_project
+# Final Project: Distribution and Evidence of Sauropodomorphs
 
 For my final Codecademy data analysis project, I wanted to work with data about dinosaurs. In this project, I used data from the 2020 publication Ten more years of discovery: revisiting the quality of the sauropodomorph dinosaur fossil record available on [Dryad](https://datadryad.org/stash/dataset/doi:10.5061%2Fdryad.6hdr7sqxb).
 
