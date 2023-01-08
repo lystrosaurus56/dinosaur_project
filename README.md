@@ -5,3 +5,5 @@ For my final Codecademy data analysis project, I wanted to work with data about 
 This dataset collects information regarding 305 individual species of sauropodomorphs (long-necked dinosaurs and their relatives), including geographic location, size, and age of fossil. The information comes from 1144 individual specimens, and the paper is mainly looking at how complete each fossil is.
 
 There are two Python files in this project: one where I do the majority of the data cleaning, and one where I finish the data cleaning and perform data analysis. 
+
+In addition to this project, I also created a Tableau dashboard summarizing a different set of dinosaur data that can be viewed [here](https://public.tableau.com/views/FinalProject-Dinosaurs/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
